@@ -20,22 +20,22 @@ Oilfield operator. Formerly built and operated cryptocurrency mining infrastruct
 ### 🛠️ Tech & Tools
 
 WebDev:<br/>
-![Static Badge](https://img.shields.io/badge/Ubuntu-22+-orange) &nbsp;![Static Badge](https://img.shields.io/badge/Apache-2-pink) &nbsp;![Static Badge](https://img.shields.io/badge/MySQL-8-blue) &nbsp;![Static Badge](https://img.shields.io/badge/PHP-8-yellow)<br/>
-![Static Badge](https://img.shields.io/badge/HTML-5-green) &nbsp;![Static Badge](https://img.shields.io/badge/CSS-3-yellow) &nbsp;![Static Badge](https://img.shields.io/badge/ECMAScript-ES2017-lightblue) &nbsp;![Static Badge](https://img.shields.io/badge/Python-3.1x-red)
+![Static Badge](https://img.shields.io/badge/Ubuntu-&nbsp;-orange) &nbsp;![Static Badge](https://img.shields.io/badge/Apache-&nbsp;-pink) &nbsp;![Static Badge](https://img.shields.io/badge/MySQL-&nbsp;-blue) &nbsp;![Static Badge](https://img.shields.io/badge/PHP-&nbsp;-yellow)<br/>
+![Static Badge](https://img.shields.io/badge/HTML-&nbsp;-green) &nbsp;![Static Badge](https://img.shields.io/badge/CSS-&nbsp;-yellow) &nbsp;![Static Badge](https://img.shields.io/badge/ECMAScript-&nbsp;-lightblue) &nbsp;![Static Badge](https://img.shields.io/badge/Python-&nbsp;-red)
 
 AI Related:<br/>
-![Static Badge](https://img.shields.io/badge/Ollama-0.30-green) &nbsp;![Static Badge](https://img.shields.io/badge/DeepSeek%20Pro-v4-orange) &nbsp;![Static Badge](https://img.shields.io/badge/Codex/ChatGPT-5.5-blue)
+![Static Badge](https://img.shields.io/badge/Ollama-&nbsp;-green) &nbsp;![Static Badge](https://img.shields.io/badge/DeepSeek%20Pro-&nbsp;-orange) &nbsp;![Static Badge](https://img.shields.io/badge/Codex/ChatGPT-&nbsp;-blue)
 
 <details>
 <summary>Odd Interests & Past Time Favorites:</summary>
 
-![Static Badge](https://img.shields.io/badge/Assembly-x86-green) &nbsp;![Static Badge](https://img.shields.io/badge/Erlang-22-yellow)<br/>
-![Static Badge](https://img.shields.io/badge/C-ANSI-blue) &nbsp;![Static Badge](https://img.shields.io/badge/C++-ARM/Classic-skyblue) &nbsp;![Static Badge](https://img.shields.io/badge/Redis-4-red)
+![Static Badge](https://img.shields.io/badge/Assembly-x86-green) &nbsp;![Static Badge](https://img.shields.io/badge/Erlang-&nbsp;-yellow)<br/>
+![Static Badge](https://img.shields.io/badge/C-ANSI-blue) &nbsp;![Static Badge](https://img.shields.io/badge/C++-ARM/Classic-skyblue) &nbsp;![Static Badge](https://img.shields.io/badge/Redis-&nbsp;-red)
 </details>
 
 #
 
-### 𝕏 Latest Tweets
+### Latest 𝕏 Posts
 <!-- X-POSTS:START -->
 <!-- X-POSTS:END -->
 
