@@ -40,11 +40,11 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2065274751841423579"><img src="https://pbs.twimg.com/media/HKlUcTLWYAAa6pg.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jun 12, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
-Newly purchased Walmart K&amp;M, extra TV. This is ready to GO!!! I&#x27;m not sure if I&#x27;ll accomplish my goal... providing inference. But this will be a fun learning adventure. Proxmox, Ubuntu Server, Kubernetes, etc. #homelab
+
+<sub>@NolansLab · Jun 12, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+One of the things I needed to do was see if I could use my local AI from my website on my VPS.<br><br>AI to the rescue once again!<br><br>Tailscale.<br><br>This is the most beautful piece of software ever. How can I learn and build on my machines in ND while I&#x27;m in TX? Tailscale.<br><br>#homelab
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2065274751841423579">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2065278312503517461">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
 
