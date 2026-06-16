@@ -40,13 +40,6 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2065273087621312616"><img src="https://pbs.twimg.com/media/HKlS7avXAAAM4cX.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jun 12, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
-They arrived! Curious server-noob me began touching. Grabbed a PSU, turned it over... rattling.😲 This turned into a multi-hour adventure. How do I open the lid? How do I install the card that fell out during travel? Rattling? Standoffs fro...
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2065273087621312616">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2065274751841423579"><img src="https://pbs.twimg.com/media/HKlUcTLWYAAa6pg.jpg" alt="Post image" width="75%"></a></p>
 <sub>@NolansLab · Jun 12, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 Newly purchased Walmart K&amp;M, extra TV. This is ready to GO!!! I&#x27;m not sure if I&#x27;ll accomplish my goal... providing inference. But this will be a fun learning adventure. Proxmox, Ubuntu Server, Kubernetes, etc. #homelab
@@ -55,10 +48,17 @@ Newly purchased Walmart K&amp;M, extra TV. This is ready to GO!!! I&#x27;m not s
 </td>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Jun 12, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jun 12, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 One of the things I needed to do was see if I could use my local AI from my website on my VPS.<br><br>AI to the rescue once again!<br><br>Tailscale.<br><br>This is the most beautful piece of software ever. How can I learn and build on my machines in ND while I&#x27;m in TX? Tailscale.<br><br>#homelab
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2065278312503517461">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Jun 15, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+About a week ago I did my rountine ND to TX drive. What better way to spend it than listening to m.youtube.com/@LearnLinuxTV?<br><br>Playlists in entirety: <br>• &quot;Bash Scripting on Linux&quot;<br>• &quot;Career Development&quot;<br>• &quot;Proxmox Full Course&quot;<br><br>Side goal: LPIC-1
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2066669542781173955">View on X</a></strong>
 </td>
 </tr>
 </table>
