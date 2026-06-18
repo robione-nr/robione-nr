@@ -54,11 +54,11 @@ I like tinkering. Making templates, creating and destroying machines. I enjoyed 
 <strong><a href="https://x.com/NolansLab/status/2067088753097597185">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
-
-<sub>@NolansLab · Jun 17, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-@1Lpic Thanks 😊! I&#x27;ll have to check it out!
+<p align="center"><a href="https://x.com/NolansLab/status/2067574645209850363"><img src="https://pbs.twimg.com/media/HLGALqjXIAALoO1.jpg" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jun 18, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+With a 100+ hr/wk job don&#x27;t want to take a break learning. Starlink is for the better picture, the cell phone is the real work horse. In the U.S. southwest with my Proxmox server in ND; with 2 VMs. Arch is my arch nemesis. LPIC-1 studies a...
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2067089029170954730">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2067574645209850363">View on X</a></strong>
 </td>
 </tr>
 </table>
