@@ -40,25 +40,25 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2066827112753885561"><img src="https://pbs.twimg.com/media/HK7YTokXIAAvfWR.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jun 16, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
-My job often doesn&#x27;t allow for much free time and takes a lot of time (100+ hours/week). Been on standby for a bit but I got the call yesterday. I&#x27;ll be busy soon. I&#x27;ve been prepping for this moment. Reawakened my git Thursday-ish. It&#x27;s be...
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2066827112753885561">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2067088753097597185"><img src="https://pbs.twimg.com/media/HK_GREcWEAAqSPB.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jun 17, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-I like tinkering. Making templates, creating and destroying machines. I enjoyed filling up my car, hopping on my laptop and putting in my Tailscale IP while hooked up to Starlink. Fooled around with docker. I ❤️ containers. Made a Solana-c...
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2067088753097597185">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2067574645209850363"><img src="https://pbs.twimg.com/media/HLGALqjXIAALoO1.jpg" alt="Post image" width="75%"></a></p>
 <sub>@NolansLab · Jun 18, 2026 · 1 like · 1 reply · 0 reposts</sub><br><br>
 With a 100+ hr/wk job don&#x27;t want to take a break learning. Starlink is for the better picture, the cell phone is the real work horse. In the U.S. southwest with my Proxmox server in ND; with 2 VMs. Arch is my arch nemesis. LPIC-1 studies a...
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2067574645209850363">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+<p align="center"><a href="https://x.com/NolansLab/status/2069393423241560104"><img src="https://pbs.twimg.com/media/HLf2Wh9aEAALKcr.png" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jun 23, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+My first container. Some opt for &quot;Hello World,&quot; I went for a Solana keygrind for a vanity address; 3 character prefix and suffix. Chat GPT says about 10.5 hours on average. Still grinding past the screenie, 111.3B pairs searched in ~400k s...
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2069393423241560104">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+<p align="center"><a href="https://x.com/NolansLab/status/2069398058115199228"><img src="https://pbs.twimg.com/media/HLf6kLyXIAAox0v.jpg" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jun 23, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+My job. Probably the only pic that will ever be posted. I am grateful of purchasing power it gives me, but it&#x27;s a life drainer.
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2069398058115199228">View on X</a></strong>
 </td>
 </tr>
 </table>
