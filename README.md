@@ -48,10 +48,17 @@ About a week ago I did my rountine ND to TX drive. What better way to spend it t
 </td>
 <td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2071818463740322170"><img src="https://pbs.twimg.com/media/HMCT6eYXgAAEnlC.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jun 30, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jun 30, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 This has to be the best Linux flag ever. Yes, I really want a Ceph cluster of 1... for now. #homelab #proxmox #ceph
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2071818463740322170">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Jul 2, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+I feel like Jadi is an unappreciated LPIC-1 hero. He has a complete course, 83 videos, that I&#x27;m about halfway through. But not many views. <br><br>Sure it takes awhile to view the videos but I feel it&#x27;s much faster than the reference study material. <br><br>m.youtube.com/playlist?list=…<br><br>#LPIC
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2072528960596967608">View on X</a></strong>
 </td>
 </tr>
 </table>
