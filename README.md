@@ -48,14 +48,14 @@ This has to be the best Linux flag ever. Yes, I really want a Ceph cluster of 1.
 </td>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Jul 2, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jul 2, 2026 · 1 like · 1 reply · 1 repost</sub><br><br>
 I feel like Jadi is an unappreciated LPIC-1 hero. He has a complete course, 83 videos, that I&#x27;m about halfway through. But not many views. <br><br>Sure it takes awhile to view the videos but I feel it&#x27;s much faster than the reference study material. <br><br>m.youtube.com/playlist?list=…<br><br>#LPIC
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2072528960596967608">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Jul 3, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jul 3, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 It&#x27;s nice when things start to come together. I was putting together a k8s VM with a 4-GPU pass-through for AI... things i didn&#x27;t need to do in hindsight... and had to troubleshoot, and my LPIC-1 studies became very useful.<br><br>It was a good feeling to have a clue. 😀
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2072906645479317604">View on X</a></strong>
