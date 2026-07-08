@@ -48,14 +48,14 @@ I feel like Jadi is an unappreciated LPIC-1 hero. He has a complete course, 83 v
 </td>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Jul 3, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jul 3, 2026 · 2 likes · 0 replies · 0 reposts</sub><br><br>
 It&#x27;s nice when things start to come together. I was putting together a k8s VM with a 4-GPU pass-through for AI... things i didn&#x27;t need to do in hindsight... and had to troubleshoot, and my LPIC-1 studies became very useful.<br><br>It was a good feeling to have a clue. 😀
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2072906645479317604">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2073952588391739828"><img src="https://pbs.twimg.com/media/HMgo44LXwAAtblR.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 6, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jul 6, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 This has to be my favorite bash script ever. I host my email on a VPS, every once in awhile check the inbox, can&#x27;t login. Certs were refreshed but services not restarted. Deploy hook script takes care of that and sends a nice little messag...
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2073952588391739828">View on X</a></strong>
