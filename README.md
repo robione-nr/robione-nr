@@ -55,7 +55,7 @@ My &quot;homelab.&quot; Sketching it out, making sure I didn&#x27;t forget anyth
 </td>
 <td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2075739792164155751"><img src="https://pbs.twimg.com/media/HM6CV12XQAIv8MW.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 11, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+<sub>@NolansLab · Jul 11, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
 AI is great. Get an answer in seconds instead of hours. &quot;Is there a way for Codex to code directly on my VPS?&quot; 10,000 words later: sshfs &quot;Can my VPS access my local AI?&quot; Tailscale &quot;Can I use my phone for my server sysadmin?&quot; Termius and Ta...
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2075739792164155751">View on X</a></strong>
