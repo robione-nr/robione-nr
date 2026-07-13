@@ -40,13 +40,6 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-
-<sub>@NolansLab · Jul 9, 2026 · 0 likes · 1 reply · 0 reposts</sub><br><br>
-Been in the doldrums for a bit as far as the homelab goes.<br><br>At work with another week to go; transitioning to private class A once I install my Fortigate. <br><br>AI is telling me to wait to setup K8s control planes. So I have a lot of LXCs &amp; VMs waiting for that moment for final conf.
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2075057784106684831">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2075480641072722066"><img src="https://pbs.twimg.com/media/HM2WpKqWQAAH8BZ.jpg" alt="Post image" width="75%"></a></p>
 <sub>@NolansLab · Jul 10, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
 My &quot;homelab.&quot; Sketching it out, making sure I didn&#x27;t forget anything. On my days off in a week.... this is coming together!!! Currently I possess 4 of the items in this diagram. 😀The rest in the mail... I do need a rack. 🤔 25U? We&#x27;ll see....
@@ -59,6 +52,13 @@ My &quot;homelab.&quot; Sketching it out, making sure I didn&#x27;t forget anyth
 AI is great. Get an answer in seconds instead of hours. &quot;Is there a way for Codex to code directly on my VPS?&quot; 10,000 words later: sshfs &quot;Can my VPS access my local AI?&quot; Tailscale &quot;Can I use my phone for my server sysadmin?&quot; Termius and Ta...
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2075739792164155751">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Jul 12, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+I don&#x27;t think I&#x27;ll get over this for awhile. I think this is the coolest thing ever. <br><br>Remote administration! <br><br>Setting up my self-hosted email server in North Dakota while in Texas.<br><br>Large tablet in the future!
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2076254998086750248">View on X</a></strong>
 </td>
 </tr>
 </table>
