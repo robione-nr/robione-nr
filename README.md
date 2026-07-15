@@ -54,11 +54,11 @@ AI is great. Get an answer in seconds instead of hours. &quot;Is there a way for
 <strong><a href="https://x.com/NolansLab/status/2075739792164155751">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
-
-<sub>@NolansLab · Jul 12, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-I don&#x27;t think I&#x27;ll get over this for awhile. I think this is the coolest thing ever. <br><br>Remote administration! <br><br>Setting up my self-hosted email server in North Dakota while in Texas.<br><br>Large tablet in the future!
+<p align="center"><a href="https://x.com/NolansLab/status/2076828994981286010"><img src="https://pbs.twimg.com/media/HNJg7y0XsAAyU-a.jpg" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jul 14, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
+(Pardon my reposts... image missing, kinda was the point.) I don&#x27;t think I&#x27;ll get over this for awhile. I think this is the coolest thing ever. Remote administration! Setting up my self-hosted email server in North Dakota while in Texas. L...
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2076254998086750248">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2076828994981286010">View on X</a></strong>
 </td>
 </tr>
 </table>
