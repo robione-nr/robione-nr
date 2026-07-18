@@ -40,25 +40,25 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2075480641072722066"><img src="https://pbs.twimg.com/media/HM2WpKqWQAAH8BZ.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 10, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-My &quot;homelab.&quot; Sketching it out, making sure I didn&#x27;t forget anything. On my days off in a week.... this is coming together!!! Currently I possess 4 of the items in this diagram. 😀The rest in the mail... I do need a rack. 🤔 25U? We&#x27;ll see....
+
+<sub>@NolansLab · Jul 16, 2026 · 0 likes · 1 reply · 0 reposts</sub><br><br>
+I have ~9 hrs left on my drive; wondering how ambitious my plan is: 24 hrs to a pile of pkgs, and finishing my &quot;homelab.&quot;<br><br>IDK of one can call it that 😆.<br><br>2 servers on a cooler to:<br>- 4 servers <br>- 2 firewalls<br>- 2 1G + 10G switches<br>- racked, conf&#x27;ed, cabled<br>- LXCs, VMs, k8s, etc
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2075480641072722066">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2077685060095115334">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2075739792164155751"><img src="https://pbs.twimg.com/media/HM6CV12XQAIv8MW.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 11, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
-AI is great. Get an answer in seconds instead of hours. &quot;Is there a way for Codex to code directly on my VPS?&quot; 10,000 words later: sshfs &quot;Can my VPS access my local AI?&quot; Tailscale &quot;Can I use my phone for my server sysadmin?&quot; Termius and Ta...
+<p align="center"><a href="https://x.com/NolansLab/status/2077833839603519615"><img src="https://pbs.twimg.com/media/HNXy3NZXAAAlek0.jpg" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jul 16, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+Christmas in July! Let&#x27;s see how far I can take this in 24 hours. I&#x27;d like to enjoy a little of my 4 days off. 😀 I think I&#x27;m missing a server... or two, but basically all the hardware for my &quot;homelab.&quot; I quote it because.. you&#x27;ll see. 😉 #h...
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2075739792164155751">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2077833839603519615">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2076828994981286010"><img src="https://pbs.twimg.com/media/HNJg7y0XsAAyU-a.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 14, 2026 · 1 like · 0 replies · 0 reposts</sub><br><br>
-(Pardon my reposts... image missing, kinda was the point.) I don&#x27;t think I&#x27;ll get over this for awhile. I think this is the coolest thing ever. Remote administration! Setting up my self-hosted email server in North Dakota while in Texas. L...
+<p align="center"><a href="https://x.com/NolansLab/status/2078201679347069141"><img src="https://pbs.twimg.com/media/HNdBaTTWUAEelUm.jpg" alt="Post image" width="75%"></a></p>
+<sub>@NolansLab · Jul 17, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+Things are coming along nicely. Currently wondering how rails work. 🤔 Seems Dell made some nice ones; intuitive. Supermicro... not so much. No clue how to mount MCP-290-11809-0N #homelab
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2076828994981286010">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2078201679347069141">View on X</a></strong>
 </td>
 </tr>
 </table>
