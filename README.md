@@ -40,13 +40,6 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-
-<sub>@NolansLab · Jul 16, 2026 · 0 likes · 1 reply · 0 reposts</sub><br><br>
-I have ~9 hrs left on my drive; wondering how ambitious my plan is: 24 hrs to a pile of pkgs, and finishing my &quot;homelab.&quot;<br><br>IDK of one can call it that 😆.<br><br>2 servers on a cooler to:<br>- 4 servers <br>- 2 firewalls<br>- 2 1G + 10G switches<br>- racked, conf&#x27;ed, cabled<br>- LXCs, VMs, k8s, etc
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2077685060095115334">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
 <p align="center"><a href="https://x.com/NolansLab/status/2077833839603519615"><img src="https://pbs.twimg.com/media/HNXy3NZXAAAlek0.jpg" alt="Post image" width="75%"></a></p>
 <sub>@NolansLab · Jul 16, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
 Christmas in July! Let&#x27;s see how far I can take this in 24 hours. I&#x27;d like to enjoy a little of my 4 days off. 😀 I think I&#x27;m missing a server... or two, but basically all the hardware for my &quot;homelab.&quot; I quote it because.. you&#x27;ll see. 😉 #h...
@@ -59,6 +52,13 @@ Christmas in July! Let&#x27;s see how far I can take this in 24 hours. I&#x27;d 
 Things are coming along nicely. Currently wondering how rails work. 🤔 Seems Dell made some nice ones; intuitive. Supermicro... not so much. No clue how to mount MCP-290-11809-0N #homelab
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2078201679347069141">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Jul 20, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+I removed all my R630s and rails from my rack to install the outer rails for my Supermicro SYS-1028GQ-TXR; removed 8 bolts so I could adjust the depth to get the rear of the rails inside after mounting the front. <br><br>Disassembly for removal. 🤯<br><br>Must be an easier way.
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2079323643398512774">View on X</a></strong>
 </td>
 </tr>
 </table>
