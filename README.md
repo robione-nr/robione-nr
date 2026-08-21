@@ -40,25 +40,25 @@ AI Related:<br/>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2077833839603519615"><img src="https://pbs.twimg.com/media/HNXy3NZXAAAlek0.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 16, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-Christmas in July! Let&#x27;s see how far I can take this in 24 hours. I&#x27;d like to enjoy a little of my 4 days off. 😀 I think I&#x27;m missing a server... or two, but basically all the hardware for my &quot;homelab.&quot; I quote it because.. you&#x27;ll see. 😉 #h...
+
+<sub>@NolansLab · Aug 16, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+Been dealing with lack of motivation lately but in the last 3 days...<br><br>- migrated k8s from class c to class a addresses<br>- K8s MySQL pod up and synced with VPS<br>- Email VM synced with VPS and interacting with MySQL pod<br><br>Slowly but surely, progress. <br>#homelab
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2077833839603519615">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
-<p align="center"><a href="https://x.com/NolansLab/status/2078201679347069141"><img src="https://pbs.twimg.com/media/HNdBaTTWUAEelUm.jpg" alt="Post image" width="75%"></a></p>
-<sub>@NolansLab · Jul 17, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-Things are coming along nicely. Currently wondering how rails work. 🤔 Seems Dell made some nice ones; intuitive. Supermicro... not so much. No clue how to mount MCP-290-11809-0N #homelab
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2078201679347069141">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2088857936718090668">View on X</a></strong>
 </td>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Jul 20, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-I removed all my R630s and rails from my rack to install the outer rails for my Supermicro SYS-1028GQ-TXR; removed 8 bolts so I could adjust the depth to get the rear of the rails inside after mounting the front. <br><br>Disassembly for removal. 🤯<br><br>Must be an easier way.
+<sub>@NolansLab · Aug 18, 2026 · 0 likes · 1 reply · 0 reposts</sub><br><br>
+My K8s infra is paying off! 🥳 Using it to self-host some tools for Hermes:<br><br>• Supermemory<br>• searxng<br>• firewall (web search and extract)<br><br>As well a bunch of datastores:<br><br>• MySQL<br>• Arango<br>• Redis<br>• Postgres + pgvector<br>• InfluxDB<br><br>Exciting times ahead!<br>#homelab #ai
 <br><br>
-<strong><a href="https://x.com/NolansLab/status/2079323643398512774">View on X</a></strong>
+<strong><a href="https://x.com/NolansLab/status/2089652046425112612">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Aug 19, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+The world of servers and sysadmin is super interesting to me. I&#x27;ve barely entered but if these people ever feel like... God!<br><br>Completely understand. <br><br>• Architecting worlds within worlds<br>• Creators of universes<br><br>Sounds like gibberish, until you know.
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2089941793018155182">View on X</a></strong>
 </td>
 </tr>
 </table>
