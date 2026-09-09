@@ -41,13 +41,6 @@ AI Related:<br/>
 <tr>
 <td width="33%" valign="top">
 
-<sub>@NolansLab · Aug 16, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
-Been dealing with lack of motivation lately but in the last 3 days...<br><br>- migrated k8s from class c to class a addresses<br>- K8s MySQL pod up and synced with VPS<br>- Email VM synced with VPS and interacting with MySQL pod<br><br>Slowly but surely, progress. <br>#homelab
-<br><br>
-<strong><a href="https://x.com/NolansLab/status/2088857936718090668">View on X</a></strong>
-</td>
-<td width="33%" valign="top">
-
 <sub>@NolansLab · Aug 18, 2026 · 0 likes · 1 reply · 0 reposts</sub><br><br>
 My K8s infra is paying off! 🥳 Using it to self-host some tools for Hermes:<br><br>• Supermemory<br>• searxng<br>• firewall (web search and extract)<br><br>As well a bunch of datastores:<br><br>• MySQL<br>• Arango<br>• Redis<br>• Postgres + pgvector<br>• InfluxDB<br><br>Exciting times ahead!<br>#homelab #ai
 <br><br>
@@ -59,6 +52,13 @@ My K8s infra is paying off! 🥳 Using it to self-host some tools for Hermes:<br
 The world of servers and sysadmin is super interesting to me. I&#x27;ve barely entered but if these people ever feel like... God!<br><br>Completely understand. <br><br>• Architecting worlds within worlds<br>• Creators of universes<br><br>Sounds like gibberish, until you know.
 <br><br>
 <strong><a href="https://x.com/NolansLab/status/2089941793018155182">View on X</a></strong>
+</td>
+<td width="33%" valign="top">
+
+<sub>@NolansLab · Sep 8, 2026 · 0 likes · 0 replies · 0 reposts</sub><br><br>
+Never in my life did i think I&#x27;d be sitting here watching my screen after using AI to &quot;recompile&quot; an AI from huggingface.co so I could use it on my machine so it can fit into my 64GB of VRAM. Some time today I should have a 100+B any-to-any model locally. 🤞<br>#homelab #ai
+<br><br>
+<strong><a href="https://x.com/NolansLab/status/2097300909483004158">View on X</a></strong>
 </td>
 </tr>
 </table>
